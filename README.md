@@ -1,6 +1,6 @@
 # Quantitative-Analysis-in-the-Stock-Market
 Quantitative Analysis in the stock market is a comprehensive financial methodology that harnesses mathematical and statistical techniques to examine stocks and financial markets. 
-In this project, I have used descriptive analysis, time series analysis,volatility analysis, correlation analysis, and comparative analysis.
+In this project, I have used descriptive analysis, time series analysis, volatility analysis, correlation analysis, and comparative analysis.
 
 ##1.Time Series Analysis: Time Series Analysis examines trends and patterns over time, focusing on the closing prices.
 ##2.Correlation Analysis: Correlation is used to examine how stock prices of different companies are related to each other.
